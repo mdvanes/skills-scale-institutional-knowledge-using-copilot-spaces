@@ -1,4 +1,4 @@
-name: "Add Content to Project Management Process Docs"
+name: "Create readme"
 description: "Request to add new content or updates to an existing program management process document."
 title: "[Process Doc Update]: Create README for OctoAcme Project Management Docs with Links to All Docs and Processes Summary"
 labels: ["documentation", "process improvement"]
